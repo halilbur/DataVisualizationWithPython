@@ -17,7 +17,7 @@ It includes several socio-economic indicators such as life expectancy, education
 # Usage
 
 1. Start the analysis by running the Jupyter notebook
-2. Open the main.ipynb notebook.
+2. Open the `main.ipynb` notebook.
 3. Follow the step-by-step instructions in the notebook to perform the analysis and generate insights.
 
 # Result
