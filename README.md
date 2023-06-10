@@ -7,6 +7,7 @@ The dataset used for this analysis is the Human Development Index (HDI) dataset,
 It includes several socio-economic indicators such as life expectancy, education, and per capita income. The dataset is available in the file hdi_dataset.csv.
 
 #Installation
+
 1.Clone the repository
 git clone https://github.com/halilbur/DataVisualizationWithPython.git
 
@@ -14,11 +15,13 @@ git clone https://github.com/halilbur/DataVisualizationWithPython.git
 pip install -r requirements.txt
 
 #Usage
+
 1.Start the analysis by running the Jupyter notebook
 2.Open the main.ipynb notebook.
 3.Follow the step-by-step instructions in the notebook to perform the analysis and generate insights.
 
 #Result
+
 The analysis of the "Life expectancy at birth" column provides insights into the relationship between life expectancy and human development. 
 It includes calculations of the mean, median, variance, standard deviation, and standard error. Additionally, it examines the distribution shape, identifies outliers, 
 and visualizes the data using a histogram and boxplot.
